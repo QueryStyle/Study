@@ -18,6 +18,8 @@ Rust语言示例：https://rustwiki.org/zh-CN//rust-by-example/hello.html
 
 Rust项目列表：https://github.com/rust-unofficial/awesome-rust
 
+Rust入门书籍：https://rustcc.gitbooks.io/rustprimer/content/
+
 Rust程序设计（第一版）：https://kaisery.gitbooks.io/rust-book-chinese/content/
 
 Rust程序设计（第二版）：https://kaisery.github.io/trpl-zh-cn/
