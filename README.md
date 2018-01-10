@@ -24,5 +24,18 @@ Rust程序设计（第一版）：https://kaisery.gitbooks.io/rust-book-chinese/
 
 Rust程序设计（第二版）：https://kaisery.github.io/trpl-zh-cn/
 
+# Kotlin
+Kotlin中文官网：https://www.kotlincn.net/
+
+Kotlin中文文档：http://www.kotlincn.net/docs/reference/
+
+Kotlin项目列表：https://github.com/KotlinBy/awesome-kotlin
+
+Kotlin视频教程：https://www.bilibili.com/video/av10642849/
+
+Kotlin入门文档：https://kymjs.com/code/2017/02/03/01/
+
+Kotlin资源大全：https://zhuanlan.zhihu.com/p/27000007
+
 # 当前进度
-目前已经从Python切换到Golang，所有项目也已经使用Golang重写，目前正在学Rust
+目前已经从Python切换到Golang，所有项目也已经使用Golang重写，目前正在学Rust与Kotlin
