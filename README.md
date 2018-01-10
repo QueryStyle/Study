@@ -22,3 +22,5 @@ Rust程序设计（第一版）：https://kaisery.gitbooks.io/rust-book-chinese/
 
 Rust程序设计（第二版）：https://kaisery.github.io/trpl-zh-cn/
 
+# 当前进度
+目前已经从Python切换到Golang，所有项目也已经使用Golang重写，目前正在学Rust
